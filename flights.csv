@@ -1,0 +1,6 @@
+ID,departureAirportCode,departureCity,departureCountry,arrivalAirportCode,departureDateTime,flightDurationInMinutes,planeCapacity,availableSeats,active
+F001,JFK,New York City,United States,ORD,19/01/2023 06:30,148,500,150,TRUE
+F002,MAN,Manchester,United Kingdom,GTW,19/05/2023 14:15,75,100,80,TRUE
+F003,CDG,Paris,France,BER,23/02/2023 16:20,190,250,25,TRUE
+F004,JFK,New York City,United States,MCI,21/02/2023 08:00,200,120,1,TRUE
+F005,CDG,Paris,France,BER,22/02/2023 16:20,190,250,250,FALSE
